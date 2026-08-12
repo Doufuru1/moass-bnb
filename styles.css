@@ -330,6 +330,14 @@ img {
   align-items: center;
 }
 
+.accent-tag {
+  font-size: 1.25rem;
+  color: var(--red);
+  font-weight: 800;
+  margin: 20px 0;
+  letter-spacing: 0.5px;
+}
+
 .about-text p {
   font-size: 1.1rem;
   color: var(--navy-soft);
